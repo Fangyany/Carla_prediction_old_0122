@@ -1,0 +1,12 @@
+trajectories
+fig
+weight_and_log
+weight_and_log_all
+test_data.pkl
+test_data.pkl_all
+train_data_all.pkl
+train_data.pkl
+traj_data_all.pkl
+trajectories_base.pkl
+trajectories.pkl
+waypoints_xy.pkl
